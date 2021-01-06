@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 💻 Tech favorites are JavaScript, React, Redux
 
-🎓 I have a M.Sc in Mechanical Engineering with a major in Product Developement. 
+🎓 I have a M.Sc in Mechanical Engineering with a major in Product Development. 
 
 🌱 I’m currently learning: Node.js, Express and MongoDB.
 
