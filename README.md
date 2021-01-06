@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Anna 👋💻✨
 
 <!--
 **AnnaHellqvist/AnnaHellqvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💻 I am a frontend developer with a background in mechanical engineering. Currently attending a bootcamp at Technigo ✨
+- Currently working on .. 
+- 🌱 I’m currently learning: Node.js, Express and MongoDB.
+
+## Find me around the web 🌎
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/anna-hellqvist-62168466/)
+- Look at my [portfolio](https://anna-hellqvist.netlify.app/)
