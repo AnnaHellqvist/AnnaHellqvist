@@ -16,9 +16,13 @@ Here are some ideas to get you started:
 -->
 
 ⚡ I am a frontend developer, currently attending a bootcamp at Technigo ✨
+
 💛 What I love about coding is the possibility to be creative and use my problem solving skills! 
+
 💻 Tech favorites are JavaScript, React, Redux
+
 🎓 I have a M.Sc in Mechanical Engineering with a major in Product developement. 
+
 🌱 I’m currently learning: Node.js, Express and MongoDB.
 
 ### Find me around the web 🌎
