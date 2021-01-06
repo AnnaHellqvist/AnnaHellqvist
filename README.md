@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 💻 Tech favorites are JavaScript, React, Redux
 
-🎓 I have a M.Sc in Mechanical Engineering with a major in Product developement. 
+🎓 I have a M.Sc in Mechanical Engineering with a major in Product Developement. 
 
 🌱 I’m currently learning: Node.js, Express and MongoDB.
 
 ### Find me around the web 🌎
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/anna-hellqvist-62168466/)
-- Look at my [portfolio](https://anna-hellqvist.netlify.app/)
+- Have a look at my [portfolio](https://anna-hellqvist.netlify.app/)
