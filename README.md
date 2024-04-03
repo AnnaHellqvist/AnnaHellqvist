@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⚡ I am a frontend developer, currently attending a bootcamp at Technigo ✨
+<!-- ⚡ I am a frontend developer, currently attending a bootcamp at Technigo ✨
 
 💛 What I love about coding is the possibility to be creative and use my problem solving skills! 
 
@@ -28,3 +28,4 @@ Here are some ideas to get you started:
 ### Find me around the web 🌎
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/anna-hellqvist-62168466/)
 - Have a look at my [portfolio](https://anna-hellqvist.netlify.app/)
+-->
